@@ -54,11 +54,3 @@ Created sentiment classifier on 83,374 combined IMDB reviews and tweets. Compare
 * Handling real-world challenges (missing data, outliers, class imbalance, overfitting)
 * Model interpretability and evaluation without relying solely on accuracy metrics
 * Trade-off analysis between model complexity, performance, and computational cost
-
-## Future Directions
-
-* Explore transformer architectures (BERT, GPT) for NLP tasks
-* Implement ensemble methods combining multiple models
-* Deploy models with MLOps pipelines (Docker, CI/CD)
-* Experiment with reinforcement learning for sequential decision-making
-* Add computer vision projects using CNNs and transfer learning
